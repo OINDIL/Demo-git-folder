@@ -7,3 +7,6 @@ console.log("new line")
 
 console.log("this is a demo branch")
 console.log("this is a new commit")
+
+
+console.log("This is a main branch commit")
